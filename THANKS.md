@@ -11,3 +11,4 @@
 ### 其他
 - [百度ocr API] 为学生清单识别提供了免费的API接口
 - [QTeaMix](https://tusiart.com/models/616971961895099597) 本程序图标基于此模型生成
+- [GitHub page] 本文档托管于此处
